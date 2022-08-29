@@ -1,6 +1,7 @@
 import Beepers.Beeper;
 import Engines.Engine;
-import WindowTinting.WindowTinting;
+import Landings.Landing;
+import WindowsTinting.WindowTinting;
 
 public class AstonMartin extends Car {
     public AstonMartin(Beeper beeper, Engine engine, WindowTinting windowTinting, Landing landing) {

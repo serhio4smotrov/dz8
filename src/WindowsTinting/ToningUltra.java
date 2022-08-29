@@ -1,4 +1,6 @@
-import WindowTinting.WindowTinting;
+package WindowsTinting;
+
+import WindowsTinting.WindowTinting;
 
 public class ToningUltra implements WindowTinting {
     @Override
