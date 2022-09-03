@@ -1,4 +1,7 @@
+package Cars;
+
 import Beepers.Beeper;
+import Cars.Car;
 import Engines.Engine;
 import Landings.Landing;
 import WindowsTinting.WindowTinting;
